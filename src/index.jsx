@@ -1,5 +1,6 @@
 import * as React from 'react';
 import * as ReactDOMClient from 'react-dom/client';
+import './style.css';
 import { App } from './app';
 
 ReactDOMClient
