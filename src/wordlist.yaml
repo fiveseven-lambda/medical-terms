@@ -8,8 +8,9 @@
     - headword: 変性
       context: タンパク質
       def: タンパク質が構造変化によって機能を失うこと．
+    - headword: グロブリン
+    - headword: アミロイド
     - headword: ビタミン
-      def: 必須だが自ら合成できない有機化合物．
     - headword: アゴニスト
       def: 受容体と結合してリガンドに似た効果を示す物質．
     - headword: アンタゴニスト
@@ -23,11 +24,30 @@
     - headword: アイソザイム
       def: 異なる遺伝子にコードされた，同じ反応を触媒する酵素．
     - headword: 発酵
+- heading: 生理学
+  members:
+    - headword: 自律神経
+    - headword: 交感神経
+    - headword: 副交感神経
+    - headword: 反射
+    - headword: ホルモン
+    - headword: ショック
 - heading: 病理学
   members:
+    - headword: 疾病
+    - headword: 外因
+    - headword: 内因
     - headword: 炎症
-      def: 発赤・腫脹・疼痛・発熱の4兆候を伴う生体反応．
+      def: 発赤・腫脹・疼痛・発熱の 4 兆候を伴う生体反応．
+    - headword: 梗塞
+      def: 虚血によって起こる限局的な壊死．
+    - headword: 充血
+    - headword: 出血
+    - headword: 浮腫
     - headword: 感染
+    - headword: 菌血症
+    - headword: 敗血症
+    - headword: 腫瘍
 - heading: 免疫学
   members:
     - headword: 抗体
@@ -38,4 +58,6 @@
   members:
     - headword: 遺伝
     - headword: 遺伝子
+    - headword: ゲノム
+    - headword: 染色体
     - headword: 発現
