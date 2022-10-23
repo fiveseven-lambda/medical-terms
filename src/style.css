@@ -1,3 +1,6 @@
 details {
   margin-left: 10px;
 }
+.empty {
+  color: red;
+}

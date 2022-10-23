@@ -8,8 +8,12 @@ const entries = (list) => list.map(item => {
       { entries(item.members) }
     </details>
   }else{
+    var heading = item.headword
+    if('context' in item){
+      heading += '（' + item.context + '）'
+    }
     return <details>
-      <summary>{item.headword}</summary>
+      <summary className={!('def' in item) && 'empty'}>{heading}</summary>
       {item.def}
     </details>
   }

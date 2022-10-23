@@ -1,16 +1,41 @@
 - heading: 生化学
   members:
+    - headword: 相同
+      def: 共通の祖先から進化したもの．
+    - headword: 分画
+      context: タンパク質
+      def: タンパク質を分子量や電荷などの性質の違いで分離すること．
+    - headword: 変性
+      context: タンパク質
+      def: タンパク質が構造変化によって機能を失うこと．
+    - headword: ビタミン
+      def: 必須だが自ら合成できない有機化合物．
+    - headword: アゴニスト
+      def: 受容体と結合してリガンドに似た効果を示す物質．
+    - headword: アンタゴニスト
+      def: 受容体と結合するが，効果を示さない物質．
     - headword: 代謝
       def: 生体内で起こる全ての化学的変換．
     - headword: 酵素
       def: 生体内の触媒分子．
     - headword: 補酵素
       def: 官能基を授受することで酵素を助ける分子．
+    - headword: アイソザイム
+      def: 異なる遺伝子にコードされた，同じ反応を触媒する酵素．
+    - headword: 発酵
 - heading: 病理学
   members:
     - headword: 炎症
       def: 発赤・腫脹・疼痛・発熱の4兆候を伴う生体反応．
+    - headword: 感染
 - heading: 免疫学
   members:
+    - headword: 抗体
+    - headword: 抗原
     - headword: アレルギー
       def: 過剰な免疫応答．
+- heading: 遺伝学
+  members:
+    - headword: 遺伝
+    - headword: 遺伝子
+    - headword: 発現
