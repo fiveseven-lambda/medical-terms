@@ -1,5 +1,5 @@
-import React from 'react';
-import { wordlist } from './wordlist';
+import React from 'react'
+import wordlist from './wordlist.yaml'
 
 const entries = (list) => list.map(item => {
   if('heading' in item){
